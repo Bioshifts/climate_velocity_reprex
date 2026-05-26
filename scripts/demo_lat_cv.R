@@ -56,7 +56,7 @@ temp_data_path <- file.path("data-raw/temperature-data")
 
 
 # change start/end dates to match data availability -------------------------
-# we only have cruts MAT data from 1902- 
+# we only have cruts MAT data from 1902-2016
 # and ORAS SST data from 1959-
 # change cv start dates to those years when study duration starts earlier
 # (not applicable to this reprex)
