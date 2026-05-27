@@ -234,8 +234,6 @@ out_bind %>%
            baseline.wtd.mean) %>%
     glimpse()
 
-
-
 rm(list = ls())
 
 
