@@ -10,8 +10,6 @@
 # the 1974-1984 period (cooling period) and 1984-1994 period (warming period)
 
 
-
-
 # libraries ---------------------------------------------------------------
 library(BioShiftR)
 library(terra)
@@ -20,6 +18,8 @@ library(ggplot2)
 library(stringr)
 library(tidyterra)
 library(sf)
+library(fields)
+library(exactextractr)
 theme_set(theme_bw())
 
 

@@ -9,6 +9,7 @@ library(sf)
 library(tidyterra)
 library(dplyr)
 library(stringr)
+library(exactextractr)
 
 
 # get cv functions --------------------------------------------------------
